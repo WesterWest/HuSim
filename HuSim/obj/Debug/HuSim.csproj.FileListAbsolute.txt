@@ -1,0 +1,6 @@
+F:\OneDrive\Documents\GitHub\HuSim\HuSim\bin\Debug\HuSim.exe.config
+F:\OneDrive\Documents\GitHub\HuSim\HuSim\bin\Debug\HuSim.exe
+F:\OneDrive\Documents\GitHub\HuSim\HuSim\bin\Debug\HuSim.pdb
+F:\OneDrive\Documents\GitHub\HuSim\HuSim\obj\Debug\HuSim.csprojResolveAssemblyReference.cache
+F:\OneDrive\Documents\GitHub\HuSim\HuSim\obj\Debug\HuSim.exe
+F:\OneDrive\Documents\GitHub\HuSim\HuSim\obj\Debug\HuSim.pdb
